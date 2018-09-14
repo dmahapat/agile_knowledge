@@ -1,0 +1,57 @@
+12 principles of Agile Software Development
+
+1. CONTINUOUS ATTENTION TO TECHNICAL EXCELLENCE AND GOOD DESIGN
+
+2. FACE TO FACE COMMUNICATION IS THE BEST FORM OF COMMUNICATION
+   No heavy mails,
+   directly talk and move on
+   You will be able to walk away with clear set of ideas and requiremnts
+
+3. WORKING SOLUTION IS THE PRINCIPAL MEASURE OF PROGRESS
+   This is KPI:- Key Performance Indicator
+   Agile focuses on delivering something
+   The only measure of progress is a working solution(This was not part of waterfall) 
+   Waterfall takes 6-12 months time to deliver something 
+   But agile is short and iterative and delivers something every sprint
+
+4. SUSTAINABLE DEVELOPMENT,ABLE TO MAINTAIN A CONSTANT PACE
+   We dont want to have peaks and valleys in development
+   We want continuous development and improvement
+   We can start to gauge capacity and velocity and enduser will have an idea when the product is going to be delivered
+
+5. TEAM REGULARLY REFLECTS ON HOW TO BECOME MORE EFFFECTIVE
+   At the end of every sprint release the team has a quick retrospective.
+   In retrospective meetings we talk about three things
+    a. What went well?
+    b. What did not go well?
+    c. How can we improve?
+
+6. SIMPLICITY - THE ART OF MAXIMIZING THE AMOUNT OF WORK NOT DONE IS ESSENTIAL
+   The focus should be to deliver the requirement.
+   If the developer has an idea,which is nice to have but takes a lot of time,then simply focus on the basic requirement 
+   forget everythingelse
+
+7. THE BEST ARCHITECTURES,REQUIREMENTS AND DESIGNS COME FROM SELF ORGANIZING TEAMS
+   We have all the team members at the same location and everyone is working towards the common goal
+   The self organizing teams should come up with the best technical solution out there
+
+8. CUSTOMER SATISFACTION BY EARLY AND CONTINUOUS DELIVERY
+   This kind of goes back to the point no 3.
+
+9. WELCOME CHANGE IN REQUIREMENTS
+   We are okay with change in requirements over following a plan
+
+10. WORKING SOLUTION SHOULD BE DELIVERED FREQUENTLY (WEEKS VS MONTHS)
+    Kind of goes back to point no 3
+
+11. CLOSE,DAILY COOPERATION BETWEEN BUSINESS AND DEVELOPERS
+    So that the business is aligned with what we are working on
+
+12. PROJECTS ARE BUILT AROUND MOTIVATED INDIVIDUALS AND TRUST SHOULD BE BUILT IN in THE TEAM
+    Teams are trusted to do what we know they can do the best 
+
+
+
+   
+ 
+ 
