@@ -1,0 +1,9 @@
+Traditional vs Agile
+
+1. In waterfall Requirement- analysis phase is the last time business was engaged in the development process----this should be avoided
+2. In agile the entire SDLC is visited with in that 2 week timeline.That sounds crazy but a small deliverable can be given 
+   in that time and also can be shown to the client
+3  In agile this iterative delivery approach helps client tell whether the model finalized is desired or not,and feed back 
+   also can be taken right away
+4. These iterative approach goes on until we get our MVP (minimal viable product)
+5. The teams inherently becomes good at working on real time project
