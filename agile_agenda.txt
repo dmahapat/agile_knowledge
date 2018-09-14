@@ -1,0 +1,20 @@
+1. Agile Manifesto
+2. 12 Principles of Agile
+3. Comparision traditional vs Agile
+4. Scrum Teaser
+
+1. Agile Manifesto(Policy,aims,goals)
+
+ a.INDIVIDUAL interactions are better than PROCESS,TOOLS and SOFTWARES in project management
+ b.WORKING S/W over COMPREHENSIVE documentation
+   1.Because of the heavy dependency on documentation waterfall model was unsuccessful.
+   2.End user doesnot care about a thick piece of documentation(it shows the pieces of task done)
+     But end user cares about the working software....it effective shows the amount of work done and also what work is done
+ c.CUSTOMER COLLABORATION over CONTRACT NEGOTIATION
+   CONTRACT NEGOTIATION: is a service provider and client approach - in agile we should avoid it
+   Rather we should be working in a collaborative way. Hence the name customer collaboration
+ d.RESPONDING TO CHANGE over FOLLOWING A PLAN
+   We should not be following a strict plan in development.
+   We want to be okay with chnages coming in mid way.Let's shift gears and work together
+
+ 
