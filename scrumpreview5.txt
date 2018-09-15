@@ -1,0 +1,123 @@
+Scrum is simple to understand but difficult to master
+------------------------------------------------------
+
+1. Agile is a overarching setup of principles and methodologies,that enhances operational efficiencies.
+   Scrum is a subset of agile. It enhances operational efficiencies.
+   Scrum can be applied to several set of teams
+   It can be applied to a 
+     a. technical team
+     b. IT team
+     c. Business process and improvement team
+     d. Financial planning and analysis team
+  Really great tool for increasing operational efficiency.
+
+2. Scrum is our favorite framework
+
+3. Scrum is simple to understand,however it is difficult to master
+
+4. Scrum Framework is splitup into 3 separate buckets.
+   a. roles
+   b. ceremonies 
+   c. artifacts 
+
+Roles of scrum:
+  1. Product owner: the business representative for the team. He sets the priority amongst the team
+
+  2. Scrum master: who is like a pseudo project manager.They facilitate the team in the development lifecycle
+
+  3. Development team: Any body and everybody that is needed to get the development from
+
+Ceremonies:
+  
+   These are your methods to success through scrum.
+   
+Sprint planning:
+ 
+   1. Sprint is a short iterative time boxed sense of development effort
+
+   2. It is of ususally 2-4 weeks time line
+
+   3. Sprint planning is the review of business requirements,that the team is going to deliver in the current sprint
+
+Daily Standup:
+
+   1. Very popular and useful tool.
+
+   2. It is conducted daily and usually 15 min long
+
+   3. The below questions are the general question in the scrum
+
+       a. what did you do today?
+
+       b. what are you planning on doing tomorrow?
+
+       c. what is the road block?
+
+      These questions are generally for development team
+
+   4. It increases the face to face communication in the team
+
+   5. Intention is get to the bottom of lot of potential issues
+
+Sprint Review:
+
+   1. At the end of the sprint is the sprint review.
+
+   2. Where we showcase what was accomplished within the sprint.
+
+   3. It is kind of a demonstartion of the working piece of code
+
+Sprint Retrospective:
+
+   1. This is the internal meaning of sprint review.
+
+   2. Scrum master and product owner also participate in this.
+
+   3. Three things we discuss here 
+
+         a. What went well?
+    
+         b. What did not go well?
+
+         c. How can we improve?
+
+Backlog refinement:
+
+   1. This is kind of requirement solicitation(asking for requirement)
+
+   2. This is a ongoing process
+
+   3. We continually look at the backlog to refine and enhance the requirement to align with the client's expectation
+
+
+Artifacts:
+
+   1. These are the gauge of teams performance
+
+      Product backlog:
+
+        a. This is the entire,inclusive list of requirements from the product owner
+
+        b. This is entire portfolio of work
+
+        c. This is quantity over quality.
+
+        d. This is a one stop place to check what the business wants.
+
+        e. It can grow, it can contract ....It is a living document.
+
+      Sprint Backlog:
+
+        a. This is a subset of product backlog.
+
+        b. This shows what the team is working on within a given sprint.
+
+      Burndown Chart:
+
+        a. This takes a look at the team velocity.
+
+        b. What the team thought,they would be able to complete
+
+        c. And how they completed and how quickly they completed
+
+        d. Powerful tool for KPI-- Key Performance Indicator measurement
