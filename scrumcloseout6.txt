@@ -1,0 +1,98 @@
+Close out:
+
+Scrum Team Dynamics:
+
+3 pillars of scrum
+
+	1. Development team 
+
+	2. Product owner
+
+	3. Scrum master
+
+1. Development team:
+
+   a. this team is responsible for delivering sprint backlog stories
+
+   b. Consists of business analyst,architects,developers and QA analyst
+
+2. Key attributes of the development team
+
+   a. we want them to be self organizing. No project manager is required
+
+   b. self managing
+
+   c. intensely collaborative
+
+   d. autonomy regarding how to reach commitments.
+
+3. Success criteria for development team
+
+   a. Co-location is the key for success but, not mandatory(The team should sit together)
+
+   b. If co-location is not possible facilitate a pseudo co-location(meeting through skype or webex)
+
+   c. avoid moving team members,however if you want to move team members then do it at the sprint beginning or ending
+
+      not in the mid
+
+
+Second Role : Scrum Master
+
+   a. he facilitates the team's daily work
+
+   b. he does so by removing and resolving impediments
+
+   c. he is responsible for the sprint velocity and burndown charts
+
+   d. scrum master holds the team accountable for themselves
+
+   e. they also manage some of the logistical portions of he work
+
+Key attributes of scrum master :
+
+   a. a servant leader without management authority over the team.
+
+   b. if there is a development work and a documentation work,the scrum master should seal the development team 
+
+      with the dev work and should take the documentation work.
+
+   c. this way he is a team player
+
+   d. facilitates creativity and empowerment
+
+Success criteria:
+
+   a. he is the press release manager or spokes person on behalf of the team
+
+ 
+Role Product owner:
+
+   a. they are the business voice of the team
+
+   b. product owner knows what the business wants
+
+   c. they communicate back and forth between devlopment team and business
+
+   d. Accountable for outcome.
+
+   e. sets the product vision and road map
+
+   f. manages the product backlog and with the scrum team to create welldefined userstories
+
+Key Attributes of product owner:
+
+   a. they have to have strong stakeholder support 
+
+   b. expertise in product and available to the team
+
+   c. determines when products should be shipped
+
+   d. he cannot be disengaged with the stakeholders
+
+Successcriteria for product owner:
+
+   a. Readily available to scrum team for any clarification
+
+   b. must respect the sprint boundaries and allow the scrum methododlogy to work
+

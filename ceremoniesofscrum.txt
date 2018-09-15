@@ -1,0 +1,70 @@
+Sprint planning:
+
+	1. Breakdown of prioritized product backlog's userstories into tasks
+
+	2. Estimation occurs
+
+	3. team members can create tasks for themselves
+
+	4. sprint backlog resides in tool --->tools: JIRA, RALLY,Microsoft projects
+
+	5. 1 to 1 relationship for hours in length to weeks of sprints
+
+           meaning: sprint planning should take 2hrs if your sprint is 2 week long
+
+Product backlog ------> Sprint backlog
+
+Daily Standup:
+
+	1. Should be of 15 minutes
+
+	2. conducted daily
+
+	3. 3 questions to all the members
+
+           a. what did you do today?
+  
+	   b. plan for tomorrow?
+
+	   c. any roadblocks?
+
+Sprint Review:
+
+	1. Team gives a demo on what has been accomplished in the sprint
+
+	2. Whole team participates
+
+	3. invite other interested stakeholders
+
+	4. usually 1 hr or less depending on sprint length
+
+Sprint Retrospective
+
+	1. it only involves scrum team
+
+	2. what went well,what did not go well,areas of improvement
+
+	3. should be less than an hour
+
+	4. everyone should participate and tell their concerns
+
+
+
+USER STORY:
+
+	1. As a -------------------- I want -------------------- So that----------
+
+ 1st blank :
+
+       who is the group of people the work is being done for
+
+ 2nd blank :
+
+	what work is being done or what change needs to be accomplished
+
+ 3rd blank :
+
+	why the work is done? what business need it is fulfilling
+
+People drop the third blank usually because it is redundant. But that is important for developer 
+to develop the user story
