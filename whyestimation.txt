@@ -1,0 +1,33 @@
+Estimation drives planning
+
+Key takeaway:
+
+	1. we estimate in size to derive duration
+
+	2. when we estimate in duration it gets very arbitrary
+
+	Tools to estimate size:
+
+        a. Ideal days :
+
+			when estimating in ideal days you assume that 
+
+			1. The story being estimated is the only thing you work on
+
+			2. Everything will be in hand when you start
+
+			3. There will be 0 interruptions
+
+			4. when estimating in ideal days use 1 estimate,not many
+
+			5. 1 guy saying 10 ideal days and another is saying 5 ideal days is not allowed.
+
+			6. Avoid the temptation to estimate the US by individual or group.
+
+			7. Emphasize on "we" mentality
+
+			8. 
+
+	b. story points
+
+
